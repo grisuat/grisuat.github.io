@@ -13,3 +13,5 @@ Jean-Luc Picard said:
 
 > Make it so
 > number one
+
+<img src="http://www.firac.at/firac.png"/>
